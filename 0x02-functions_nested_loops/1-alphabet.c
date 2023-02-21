@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * print_alphabet - to pring the alphabets
+ * main - to pring the alphabets
  *
  * Return: always 0 (succes)
  */
