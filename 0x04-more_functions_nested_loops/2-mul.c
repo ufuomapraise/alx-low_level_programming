@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * mul - multiplies two numbers 
- * @a: first input
+ * mul - check if an integer is 0 - 9
+ * @a: firstinput
  * @b: second input
- * Return: multiplication of the two numbers
+ * Return: Multiplication of two numbers
  */
 int mul(int a, int b)
 {
