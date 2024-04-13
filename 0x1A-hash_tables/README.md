@@ -1,3 +1,2 @@
-HASH TABLES
-
-Hash function is a function that converts a given numeric or alpha numeric key to a practical integer value. The mapped integer value is used as an idex in the hash table. 
+C - Hash tables
+This is a README for my 0x1A-hash_tables project!
